@@ -8,6 +8,7 @@ This Add-On provides a method to use Splunk Adaptive Response to automate lookup
 
 ## Intezer Add-On For Splunk Requirements
 This Add-On requires access to the Intezer API located [here](http://www.intezer.com/intezer-analyze/) and the Splunk Common Information Model App located [here](https://splunkbase.splunk.com/app/1621/)
+If you are a community user please contact support@intezer.com to get access to an API key.
 
 
 ### Installation
